@@ -9,11 +9,7 @@
     "routes": [
       {
         "src": "/(.*)",
-<<<<<<< HEAD
         "dest": "/"
-=======
-        "dest": "./views/room.ejs"
->>>>>>> origin/master
       }
     ]
   }
